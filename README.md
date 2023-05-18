@@ -6,6 +6,6 @@ Web version of ctaMTX, specifically the second version.
 
 Run this in your terminal:
 
-```python -r -requirements.txt```
+```python -r requirements.txt```
 
 And then just run the ``app.py`` and you're ready to go !
